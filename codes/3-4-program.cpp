@@ -10,5 +10,6 @@ int main()
     int c2 = contar + 2;
     string s2 = nome + "Jr.";
 
-    int 
+    int c3 = contar - 2;
+    // string = nome - "Jr.";
 }
